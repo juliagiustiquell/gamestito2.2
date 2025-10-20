@@ -140,6 +140,21 @@ main {
     box-shadow: 8px 8px 10px rgb(0, 64, 93);
 }
 
+/* jogo específico ---- jogo específico ---- jogo específico ---- jogo específico ---- jogo específico ---- jogo específico ---- jogo específico ---- jogo específico ---- */
+#img-backgroud-games-focus {
+    width: 100%;
+    height: 700px;
+}
+
+/* franquia de jogos */
+#nav-cards-games {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
 /* rodapé ---- rodapé ---- rodapé ---- rodapé ---- rodapé ---- rodapé ---- rodapé ---- rodapé ---- rodapé ---- rodapé ---- rodapé ----*/
 footer {
     display: flex;
